@@ -1,4 +1,3 @@
-#This code helps a user to calcualte something. 
 def add(x, y):
     return x + y
 

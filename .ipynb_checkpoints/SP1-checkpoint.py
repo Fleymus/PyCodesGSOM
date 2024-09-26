@@ -1,4 +1,3 @@
-# This code randomly chooses a number and the user asked to guess it with prompts. Only 10 attempts to guess are given to the user.
 import random
 
 def guess_number_game():

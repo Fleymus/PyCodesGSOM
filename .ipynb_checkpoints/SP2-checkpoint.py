@@ -1,4 +1,3 @@
-#This code makes a little dialog with the user. It answers to them only if the input was correct.
 def conversation():
     greetings = "Hello"  
     print(greetings)
