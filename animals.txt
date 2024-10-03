@@ -1,0 +1,5 @@
+Dumbo, elephant
+Balto, dog
+Kaa, python
+Simba, lion
+Whiskers, cat
