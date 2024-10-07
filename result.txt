@@ -1,0 +1,8 @@
+list_one: (10, 20)
+list_two: (5, 15)
+list_three: (1, 2)
+list_four: (100, 200)
+list_five: (-50, -40)
+mixed_list: (-5, -1)
+large_numbers: (1000, 2000)
+small_numbers: (-500, -400)
